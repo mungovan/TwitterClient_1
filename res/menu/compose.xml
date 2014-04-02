@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.codepath.apps.mytwitterapp.ComposeActivity" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_post"
+        android:showAsAction="always"
+        android:onClick="onPost"
+        android:title="@string/action_settings"/>
+
+</menu>
