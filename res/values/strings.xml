@@ -10,5 +10,11 @@
     <string name="title_activity_compose">Create New Tweet</string>
     <string name="tweet">Tweet</string>
     <string name="cancel">Cancel</string>
+    <string name="profileView">Profile</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="imagedescription">Image Details</string>
+    
+    
+    
 
 </resources>

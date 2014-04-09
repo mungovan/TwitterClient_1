@@ -3,11 +3,6 @@ package com.codepath.apps.mytwitterapp;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
-import org.json.JSONArray;
-
-import com.codepath.apps.mytwitterapp.models.Tweet;
-import com.loopj.android.http.JsonHttpResponseHandler;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
